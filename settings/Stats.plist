@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CPU_barChart_position</key>
+	<integer>3</integer>
+	<key>CPU_label_position</key>
+	<integer>2</integer>
+	<key>CPU_lineChart_position</key>
+	<integer>1</integer>
+	<key>CPU_line_chart_color</key>
+	<string>secondOrange</string>
+	<key>CPU_mini_color</key>
+	<string>secondOrange</string>
+	<key>CPU_mini_position</key>
+	<integer>0</integer>
+	<key>CPU_oneView</key>
+	<false/>
+	<key>CPU_pieChart_position</key>
+	<integer>4</integer>
+	<key>CPU_tachometer_position</key>
+	<integer>5</integer>
+	<key>CPU_widget</key>
+	<string>mini,line_chart</string>
+	<key>Disk_barChart_position</key>
+	<integer>1</integer>
+	<key>Disk_label_position</key>
+	<integer>0</integer>
+	<key>Disk_memory_color</key>
+	<string>secondOrange</string>
+	<key>Disk_memory_position</key>
+	<integer>2</integer>
+	<key>Disk_mini_position</key>
+	<integer>7</integer>
+	<key>Disk_networkChart_position</key>
+	<integer>5</integer>
+	<key>Disk_oneView</key>
+	<true/>
+	<key>Disk_pieChart_position</key>
+	<integer>3</integer>
+	<key>Disk_speed_position</key>
+	<integer>4</integer>
+	<key>Disk_text_position</key>
+	<integer>6</integer>
+	<key>Disk_widget</key>
+	<string>bar_chart,label,memory</string>
+	<key>NSOSPLastRootDirectory</key>
+	<data>
+	Ym9va9wCAAAAAAQQMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAtAEA
+	AAQAAAADAwAAAAQAAAUAAAABAQAAVXNlcnMAAAAHAAAAAQEAAGJyZWRlYnMACQAAAAEB
+	AABEb2N1bWVudHMAAAAMAAAAAQYAABAAAAAgAAAAMAAAAAgAAAAEAwAAzlAAAAAAAAAI
+	AAAABAMAAKBzAAAAAAAACAAAAAQDAADRcwAAAAAAAAwAAAABBgAAWAAAAGgAAAB4AAAA
+	CAAAAAAEAABBxuOahQAAABgAAAABAgAAAgAAAAAAAAAfAgAAAAAAAB8CAAAAAAAAAAAA
+	AAEFAAAIAAAABAMAAAEAAAAAAAAABAAAAAMDAAD1AQAACAAAAAEJAABmaWxlOi8vLwwA
+	AAABAQAATWFjaW50b3NoIEhECAAAAAQDAAAAAIcROQAAACQAAAABAQAAQzgzMjM0MjYt
+	RTFBRi00MjY0LTgyRDMtRjUyQzg3NkU5MjdCGAAAAAECAACBAAAAAQAAAO8TAAABAAAA
+	7xMAAAEAAAABAAAAAQEAAC8AAAAwAAAAAQIAAGRuaWIAAAAAAQAAAAAAAAAAAAAAAAAA
+	AAAAAAAAAAAAAAAAAHNjb2QCAAAAAAAAAPAAAAD+////AQAAAAAAAAATAAAABBAAAEQA
+	AAAAAAAABRAAAIgAAAAAAAAAEBAAAKwAAAAAAAAAQBAAAJwAAAAAAAAAAiAAAHABAAAA
+	AAAABSAAAPAAAAAAAAAAECAAAAABAAAAAAAAESAAACQBAAAAAAAAEiAAABQBAAAAAAAA
+	EyAAAJwAAAAAAAAAICAAAFABAAAAAAAAMCAAAMwAAAAAAAAAAcAAANQAAAAAAAAAEcAA
+	ACAAAAAAAAAAEsAAAOQAAAAAAAAAAdAAAMwAAAAAAAAAENAAAAQAAAAAAAAAF/AAADAA
+	AAAAAAAAIvAAAHwBAAAAAAAA
+	</data>
+	<key>NSStatusItem Preferred Position Battery_battery</key>
+	<real>266</real>
+	<key>NSStatusItem Preferred Position CPU_line_chart</key>
+	<real>449</real>
+	<key>NSStatusItem Preferred Position CPU_mini</key>
+	<real>402</real>
+	<key>NSStatusItem Preferred Position Network</key>
+	<real>497</real>
+	<key>NSStatusItem Preferred Position RAM_mini</key>
+	<real>355</real>
+	<key>NSStatusItem Restore Position Disk_mini</key>
+	<integer>308</integer>
+	<key>NSWindow Frame NSNavPanelAutosaveName</key>
+	<string>625 646 430 163 0 0 1680 1025 </string>
+	<key>Network_label_position</key>
+	<integer>2</integer>
+	<key>Network_networkChart_position</key>
+	<integer>1</integer>
+	<key>Network_oneView</key>
+	<true/>
+	<key>Network_speed_position</key>
+	<integer>0</integer>
+	<key>Network_state_position</key>
+	<integer>3</integer>
+	<key>Network_text_position</key>
+	<integer>4</integer>
+	<key>Network_widget</key>
+	<string>speed,network_chart</string>
+	<key>RAM_mini_color</key>
+	<string>secondOrange</string>
+	<key>SSD_bar_chart_color</key>
+	<string>secondOrange</string>
+	<key>SSD_mini_color</key>
+	<string>orange</string>
+	<key>Sensors_barChart_position</key>
+	<integer>3</integer>
+	<key>Sensors_label_position</key>
+	<integer>0</integer>
+	<key>Sensors_mini_position</key>
+	<integer>2</integer>
+	<key>Sensors_oneView</key>
+	<true/>
+	<key>Sensors_sensors_size</key>
+	<false/>
+	<key>Sensors_stack_position</key>
+	<integer>1</integer>
+	<key>Sensors_state</key>
+	<true/>
+	<key>Sensors_widget</key>
+	<string>sensors,label</string>
+	<key>runAtLoginInitialized</key>
+	<true/>
+	<key>sensor_PDTR</key>
+	<false/>
+	<key>sensor_PPBR</key>
+	<false/>
+	<key>sensor_TB1T</key>
+	<true/>
+	<key>sensor_TH0x</key>
+	<true/>
+	<key>sensor_TW0P</key>
+	<false/>
+	<key>sensor_Total System Consumption</key>
+	<false/>
+	<key>setupProcess</key>
+	<true/>
+	<key>temperature_units</key>
+	<string>celsius</string>
+	<key>updater_check_ts</key>
+	<integer>1750303658</integer>
+	<key>version</key>
+	<string>2.11.45</string>
+</dict>
+</plist>
