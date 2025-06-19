@@ -27,3 +27,33 @@ brew install stats
 ```
 brew install --cask rectangle
 ```
+
+## Herramientas de desarrollo
+### Bash Completion
+```
+brew install bash-completion
+```
+### VS Code
+```
+brew install --cask visual-studio-code
+```
+### DNSMasq
+```
+brew install dnsmasq
+```
+#### Configuración
+```
+curl -L https://gist.githubusercontent.com/dtomasi/ab76d14338db82ec24a1fc137caff75b/raw/550c84393c4c1eef8a3e68bb720df561b5d3f175/dnsmasq.conf -o /usr/local/etc/dnsmasq.conf
+sudo curl -L https://gist.githubusercontent.com/dtomasi/ab76d14338db82ec24a1fc137caff75b/raw/550c84393c4c1eef8a3e68bb720df561b5d3f175/dev -o /etc/resolver/dev
+```
+#### Reinicio Servicios
+```
+sudo brew services restart dnsmasq
+```
+#### Test
+```
+dig testing.a.domain.that.should.point.to.localhost.dev @127.0.0.1
+```
+
+
+
