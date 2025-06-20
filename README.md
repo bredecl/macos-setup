@@ -77,9 +77,10 @@ cd /Users/bredebs/apps/nginxui/
 tar -xf /Users/bredebs/Downloads/nginx-ui-macos-64.tar.gz
 ```
 La primera ejecución de nginxui es recomendable hacerla como `root` para poder crear las carpetas necesarias
-
-
-
+```
+cd /Users/bredebs/apps/nginxui/
+nginx-ui -config app.ini
+```
 ### Control para Servicios
 ```
 brew install swiftbar
